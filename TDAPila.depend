@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631535276 source:c:\users\agustin\documents\utn\2do cuatrimestre\programación\tdapila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1631474302 c:\users\agustin\documents\utn\2do cuatrimestre\programación\tdapila\pila.h
+	<stdio.h>
+
+1631535301 source:c:\users\agustin\documents\utn\2do cuatrimestre\programación\tdapila\pila.c
+	"pila.h"
+
